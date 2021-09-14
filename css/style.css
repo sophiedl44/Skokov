@@ -2222,6 +2222,7 @@ body._touch .menu__link {
   justify-content: center;
   align-items: center;
   position: relative;
+  z-index: 5;
 }
 .contact__button input:hover {
   background-color: #d23e3d;
